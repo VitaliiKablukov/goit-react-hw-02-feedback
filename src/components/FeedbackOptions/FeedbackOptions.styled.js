@@ -4,8 +4,7 @@ export const Button = styled.button`
   border-style: none;
   border-radius: 4px;
   box-shadow: 4px 4px 4px 0px rgba(55, 20, 107, 1);
-  :hover,
-  :focus {
+  :hover {
     scale: 1.2;
     background-color: tomato;
   }
